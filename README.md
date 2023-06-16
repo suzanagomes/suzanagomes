@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Suzana Gomes</h1>
 <h3 align="center">Sou uma apaixonada por dados, desbravando cada dia esse universo</h3>
 
+👋 Olá! Sou um entusiasta de dados em transição de carreira, construindo experiência em Engenharia de Dados e Análise de Dados.
+
+🔧 Tenho formação em Administração e recentemente decidi redirecionar minha carreira para o mundo dos dados. Estou apaixonado por explorar e extrair insights valiosos a partir de conjuntos de dados complexos.
+
+💻 Atualmente, estou focado em aprimorar minhas habilidades em Engenharia e Análise de Dados, trabalhando com ferramentas e tecnologias como Python, SQL, e outras. Estou constantemente aprendendo e buscando maneiras de otimizar processos de coleta, transformação e análise de dados.
+
+📊 Tenho interesse especial em Análise de Dados, visualização de dados e construção de modelos preditivos. Adoro transformar dados brutos em informações acionáveis e compartilhar insights claros e concisos.
+
+🌱 Estou sempre em busca de novos desafios e projetos interessantes relacionados a Engenharia de Dados e Análise de Dados. Também adoro colaborar com outros profissionais de dados, trocar conhecimentos e aprender com a comunidade.
+
+📫 Fique à vontade para entrar em contato comigo para colaborações, oportunidades de trabalho ou apenas para trocar ideias sobre dados e ciência de dados.
+
+Vamos construir um mundo melhor com dados! 🌍💡
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzanagomes&label=Profile%20views&color=0e75b6&style=flat" alt="suzanagomes" /> </p>
 
 - 🌱 I’m currently learning **Python language,**
